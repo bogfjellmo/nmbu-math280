@@ -1,2 +1,8 @@
 
-PageRank/.ipynb_checkpoints/PageRankTemplate-checkpoint.ipynb
+*.ipynb
+
+*.synctex.gz
+
+*.aux
+
+*.log
