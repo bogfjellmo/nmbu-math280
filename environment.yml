@@ -1,0 +1,9 @@
+name: math280
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - notebook
+  - numpy
+  - matplotlib
+  - scipy
